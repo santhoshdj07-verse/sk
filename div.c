@@ -2,7 +2,9 @@
 int main() {    
 
     int number1, number2, sum;
-    
+    num1=300
+        num2=250
+        
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
 
